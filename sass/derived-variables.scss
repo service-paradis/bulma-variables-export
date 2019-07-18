@@ -1,0 +1,90 @@
+@import "~bulma/sass/utilities/functions.sass";
+
+:export {
+    primary: $primary;
+
+    info: $info;
+    success: $success;
+    warning: $warning;
+    danger: $danger;
+
+    light: $light;
+    dark: $dark;
+
+    // Invert colors
+
+    orangeInvert:$orange-invert;
+    yellowInvert: $yellow-invert;
+    greenInvert: $green-invert;
+    turquoiseInvert: $turquoise-invert;
+    cyanInvert: $cyan-invert;
+    blueInvert: $blue-invert;
+    purpleInvert: $purple-invert;
+    redInvert: $red-invert;
+
+    primaryInvert: $primary-invert;
+    infoInvert: $info-invert;
+    successInvert: $success-invert;
+    warningInvert: $warning-invert;
+    dangerInvert: $danger-invert;
+    lightInvert: $light-invert;
+    darkInvert: $dark-invert;
+
+    // General colors
+
+    background: $background;
+
+    border: $border;
+    borderHover: $border-hover;
+
+    // Text colors
+
+    text: $text;
+    textInvert: $text-invert;
+    textLight: $text-light;
+    textStrong: $text-strong;
+
+    // Code colors
+
+    code: $code;
+    codeBackground: $code-background;
+
+    pre: $pre;
+    preBackground: $pre-background;
+
+    // Link colors
+
+    $link: $link;
+    $linkInvert: $link-invert;
+    $linkVisited: $link-visited;
+
+    $linkHover: $link-hover;
+    $linkHoverBorder: $link-hover-border;
+
+    $linkFocus: $link-focus;
+    $linkFocusBorder: $link-focus-border;
+
+    $linkActive: $link-active;
+    $linkActiveBorder: $link-active-border;
+
+    // Typography
+
+    familyPrimary: $family-primary;
+    familySecondary: $family-secondary;
+    familyCode: $family-code;
+
+    sizeSmall: $size-small;
+    sizeNormal: $size-normal;
+    sizeMedium: $size-medium;
+    sizeLarge: $size-large;
+
+    // Lists and maps
+
+    // customColors: $custom-colors;
+    // customShades: $custom-shades;
+
+    // colors: $colors;
+    // shades: $shades;
+
+    // sizes: $sizes;
+}

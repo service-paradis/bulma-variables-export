@@ -1,0 +1,40 @@
+{
+    "name": "bulma-variables-export",
+    "version": "0.0.1",
+    "description": "Library exporting Bulma sass variables which can be used in Webpack project.",
+    "main": "bulma-variables-export.scss",
+    "files": [
+        "sass",
+        "bulma-variables-export.scss",
+        "README.md"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/service-paradis/bulma-variables-export.git"
+    },
+    "keywords": [
+        "bulma",
+        "bulma-variables",
+        "bulma variables",
+        "bulma-variables-export",
+        "bulma variables export",
+        "sass",
+        "responsive",
+        "framework",
+        "variables",
+        "javascript",
+        "typescript",
+        "angular",
+        "react",
+        "vue",
+        "vuejs"
+    ],
+    "author": "Alexandre Paradis",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/service-paradis/bulma-variables-export/issues"
+    },
+    "homepage": "https://github.com/service-paradis/bulma-variables-export#readme",
+    "devDependencies": {},
+    "dependencies": {}
+}

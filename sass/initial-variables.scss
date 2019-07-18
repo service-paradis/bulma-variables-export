@@ -1,0 +1,73 @@
+:export {
+    // Colors
+
+    black: $black;
+    blackBis: $black-bis;
+    blackTer: $black-ter;
+
+    greyDarker: $grey-darker;
+    greyDark: $grey-dark;
+    grey: $grey;
+    greyLight: $grey-light;
+    greyLighter: $grey-lighter;
+
+    white: $white;
+    whiteBis: $white-bis;
+    whiteTer: $white-ter;
+
+    orange: $orange;
+    yellow: $yellow;
+    green: $green;
+    turquoise: $turquoise;
+    cyan: $cyan;
+    blue: $blue;
+    purple: $purple;
+    red: $red;
+
+    // Typography
+
+    familySansSerif: $family-sans-serif;
+    familyMonospace: $family-monospace;
+    renderMode: $render-mode;
+
+    size1: $size-1;
+    size2: $size-2;
+    size3: $size-3;
+    size4: $size-4;
+    size5: $size-5;
+    size6: $size-6;
+    size7: $size-7;
+
+    weightLight: $weight-light;
+    weightNormal: $weight-normal;
+    weightMedium: $weight-medium;
+    weightSemibold: $weight-semibold;
+    weightBold: $weight-bold;
+
+    // Spacing
+
+    blockSpacing: $block-spacing;
+
+    // Responsiveness
+
+    gap: $gap;
+    tablet: $tablet;
+    desktop: $desktop;
+    widescreen: $widescreen;
+    widescreenEnabled: $widescreen-enabled;
+    fullhd: $fullhd;
+    fullhdEnabled: $fullhd-enabled;
+
+    // Miscellaneous
+
+    easing: $easing;
+    radiusSmall: $radius-small;
+    radius: $radius;
+    radiusLarge: $radius-large;
+    radiusRounded: $radius-rounded;
+    speed: $speed;
+
+    // Flags
+
+    variableColumns: $variable-columns;
+}
