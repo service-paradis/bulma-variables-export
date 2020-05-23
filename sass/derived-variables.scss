@@ -23,19 +23,37 @@
     redInvert: $red-invert;
 
     primaryInvert: $primary-invert;
+    primaryLight: $primary-light;
+    primaryDark: $primary-dark;
     infoInvert: $info-invert;
+    infoLight: $info-light;
+    infoDark: $info-dark;
     successInvert: $success-invert;
+    successLight: $success-light;
+    successDark: $success-dark;
     warningInvert: $warning-invert;
+    warningLight: $warning-light;
+    warningDark: $warning-dark;
     dangerInvert: $danger-invert;
+    dangerLight: $danger-light;
+    dangerDark: $danger-dark;
     lightInvert: $light-invert;
     darkInvert: $dark-invert;
 
     // General colors
+    schemeMain: $scheme-main;
+    schemeMainBis: $scheme-main-bis;
+    schemeMainTer: $scheme-main-ter;
+    schemeInvert: $scheme-invert;
+    schemeInvertBis: $scheme-invert-bis;
+    schemeInvertTer: $scheme-invert-ter;
 
     background: $background;
 
     border: $border;
     borderHover: $border-hover;
+    borderLight: $border-light;
+    borderLightHover: $border-light-hover;
 
     // Text colors
 
@@ -56,6 +74,8 @@
 
     $link: $link;
     $linkInvert: $link-invert;
+    $linkLight: $link-light;
+    $linkDark: $link-dark;
     $linkVisited: $link-visited;
 
     $linkHover: $link-hover;
