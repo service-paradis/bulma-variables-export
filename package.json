@@ -1,6 +1,6 @@
 {
     "name": "bulma-variables-export",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Library exporting Bulma sass variables which can be used in Webpack project.",
     "main": "bulma-variables-export.scss",
     "files": [
