@@ -57,9 +57,9 @@ import variables from 'bulma-variables-export'
 You can also import specific set of variables using:
 
 ```javascript
-import initialVariables from 'bulma-variables-export/sass/initial-variables'
-import derivedVariables from 'bulma-variables-export/sass/derived-variables'
-import controlsVariables from 'bulma-variables-export/sass/controls-variables'
+import initialVariables from 'bulma-variables-export/sass/initial-variables.scss'
+import derivedVariables from 'bulma-variables-export/sass/derived-variables.scss'
+import controlsVariables from 'bulma-variables-export/sass/controls-variables.scss'
 ```
 
 ## Usage
